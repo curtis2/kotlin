@@ -18,4 +18,6 @@ fun main(arg:Array<String>) {
 
     newList.forEach(::println)
 
+    //git牛逼
+
 }
