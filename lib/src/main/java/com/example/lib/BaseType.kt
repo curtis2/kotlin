@@ -1,7 +1,7 @@
 package com.example.lib
 
 import com.example.lib.市委书记.北京.市委书记
-import com.sun.xml.internal.fastinfoset.util.StringArray
+
 
 var aBoolean:Boolean=true
 val anotherBoolean=false

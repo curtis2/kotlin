@@ -12,7 +12,7 @@ public class Director {
     }
 
 
-    //产品构建和组装
+
     public Product construct(){
          builder.buildPartA();
          builder.buildPartB();

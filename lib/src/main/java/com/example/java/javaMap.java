@@ -14,12 +14,10 @@ public class javaMap {
         object1.setNode("3");
         map.put(object1,"1");
         map.put(object2,"2");
-        //覆盖了 之前的同样的key 那怎么是链表结构呢？
-//        map.put(object1,"");
+
+//       map.put(object1,"");
 
         System.out.println(map.size());
-
-
         System.out.println(map.get(object1));
 
     }

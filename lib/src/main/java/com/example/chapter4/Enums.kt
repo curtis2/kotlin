@@ -1,8 +1,5 @@
 package com.example.chapter4
 
-import sun.security.pkcs11.wrapper.CK_C_INITIALIZE_ARGS
-import sun.util.resources.cldr.gl.LocaleNames_gl
-
 enum class LogLevel(val id:Int){
     VERBOSE(0),DEBUG(1),INFO(2),WARN(3),ERROR(4),ASSERT(5);
 
